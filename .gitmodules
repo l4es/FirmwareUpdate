@@ -1,0 +1,9 @@
+[submodule "rauc"]
+	path = rauc
+	url = git@github.com:rauc/rauc.git
+[submodule "swupdate"]
+	path = swupdate
+	url = git@github.com:sbabic/swupdate.git
+[submodule "mendersw/mender"]
+	path = mendersw/mender
+	url = git@github.com:mendersoftware/mender.git
