@@ -7,3 +7,6 @@
 [submodule "mendersw/mender"]
 	path = mendersw/mender
 	url = git@github.com:mendersoftware/mender.git
+[submodule "homie-ota"]
+	path = homie-ota
+	url = https://github.com/jpmens/homie-ota
